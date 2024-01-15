@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 1) Copy project http url in github 
 2) Open VS code -> Clone repo -> paste project url
-3) run command in terminal : "Flutter pub get"
+3) Once the project is open run this code : "Flutter pub get"
